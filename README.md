@@ -10,6 +10,6 @@ Criar um simulador que permitisse o paciente responder perguntas e os dados foss
 # O que foi feito:
 Foram criadas listas no Sharepoint para armazenar as informações e o projeto foi desenvolvido utilizando SharePoint Framework.
 
-<img height="500em" alt="Print da solution do ambiente novo do projeto" src="imagem/simuladorshecare1.png"/>
+<img height="500em" alt="Foto da WebPart SheCare" src="imagem/simuladorshecare1.png"/>
 
 Figura 1: Foto da WebPart Shecare
